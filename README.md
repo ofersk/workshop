@@ -7,3 +7,5 @@ Orly loves Lucy
 
 Aviv loves cakes 10
 
+
+Alexey. I had a pet stone once. It died.
