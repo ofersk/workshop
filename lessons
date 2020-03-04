@@ -1,0 +1,13 @@
+1. start: git clone
+2. move to a branch: git checkout <branch>
+3. create a new branch: git checkout -b "new name"
+4. oops I did it again (rename): git branch -m "new name"
+5. move to an already local branch: git checkout <branch name>
+6. rebase over master: git rebase -ff <on this> <put this>
+*. don't forget to force push .*
+7. update local git: git fetch
+8. update local branch (fetch + update): git pull
+9. commit to a change ;) : git commit -m "message"
+10. stage a change: git add
+11. what the ???: git status
+12. 
